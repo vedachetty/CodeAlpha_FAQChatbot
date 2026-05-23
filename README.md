@@ -15,4 +15,4 @@ This project is developed for the CodeAlpha Artificial Intelligence Internship.
 
 ## Run Project
 
-python app.py
+python task2.py
